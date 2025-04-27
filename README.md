@@ -6,7 +6,7 @@ Platforms: Google Colab, VSCode
 
 Collaborators: Harini, Zoya, Aisha
 
-See it work: https://soft-bananas-fry.loca.lt 
+See it work (link in slides): https://docs.google.com/presentation/d/1mZOZZTJv7o5zuEiS23p6px3wd6f8Tld-3JninYe1paU/edit?usp=sharing 
 
 Password: 35.201.230.33
 
