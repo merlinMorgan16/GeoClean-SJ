@@ -1,1 +1,2 @@
 # GeoClean-SJ
+An AI-powered web application that leverages a YOLO-based deep learning model to detect and classify urban pollution into six categories: birds, roadkill, trash, graffiti, potholes, and weeds. Users can upload images, automatically extract GPS data, and receive real-time predictions to assist in environmental monitoring and cleanup efforts. Additionally, the system can integrate with city surveillance infrastructure, such as cameras and city vehicles to automatically detect and report environmental issues, enhancing proactive urban maintenance.​
