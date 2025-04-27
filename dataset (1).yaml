@@ -1,0 +1,11 @@
+train: /content/drive/MyDrive/SJHacks Hackathon/SplitDataset/Train/Images
+val: /content/drive/MyDrive/SJHacks Hackathon/SplitDataset/Val/Images
+test: /content/drive/MyDrive/SJHacks Hackathon/SplitDataset/Test/Images
+nc: 6
+names:
+- Birds
+- Graffiti
+- Objects
+- Pothole
+- Roadkill
+- Weeds
